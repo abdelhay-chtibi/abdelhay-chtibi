@@ -49,7 +49,7 @@ src="https://img.shields.io/twitch/status/salahakrim23?logo=twitchsx&style=for-t
 
 
 
-<!-- ### Badges
+ ### Badges
 
 <b>My GitHub Stats</b>
 
@@ -63,4 +63,4 @@ src="https://img.shields.io/twitch/status/salahakrim23?logo=twitchsx&style=for-t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> --> 
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> 
